@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.rulers": [100],
+    "editor.formatOnSave": true
+}
